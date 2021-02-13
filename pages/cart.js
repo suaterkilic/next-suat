@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
 import Layout from "../components/layout";
+import Link from 'next/link';
 import SearchIcon from "../components/header/SearchIcon";
 
 const Cart = () => {
